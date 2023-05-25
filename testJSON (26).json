@@ -1,0 +1,45 @@
+{
+    "Fields":
+    [
+        {
+            "key":
+            {
+                "entity": "The Registering Authority",
+                "entity_type":
+                [],
+                "text":
+                [
+                    "The Registering Authority"
+                ]
+            }
+        },
+        {
+            "key":
+            {
+                "entity": "Name of the transferor",
+                "entity_type":
+                [],
+                "text":
+                [
+                    "Name of the transferor"
+                ]
+            }
+        },
+        {
+            "key":
+            {
+                "entity": "Full Address",
+                "entity_type":
+                [],
+                "text":
+                [
+                    "Full Address"
+                ]
+            }
+        }
+    ],
+    "Tables":
+    [],
+    "AutomaticallyRecognizeTables": true,
+    "Version": "3.0"
+}
